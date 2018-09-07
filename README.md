@@ -1,2 +1,2 @@
 # phpExercise
-Ejercicios de practica
+ Ejercicios de practica para ir aprendiendo sobre Php
