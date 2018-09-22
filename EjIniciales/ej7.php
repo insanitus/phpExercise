@@ -15,7 +15,6 @@
 
 
   $txt="LoremIpsum.com" ;
-  echo  "<br>"
   echo  "Consulta la pagina  $txt"
 
 ?> 
